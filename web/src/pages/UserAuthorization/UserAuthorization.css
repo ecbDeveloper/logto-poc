@@ -1,0 +1,28 @@
+#userContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    height: 100%;
+
+    h1 {
+        color: #f3f3f3;
+        font-size: 48px;
+    }
+
+    >button {
+        width: fit-content;
+        border: 1px solid #a38fff;
+        color: #a38fff;
+        background-color: #111313;
+        padding: 0.75rem 1rem;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: 0.1s;
+        font-size: 32px;
+
+        &:hover {
+            background-color: #2d3535;
+        }
+    }
+}
