@@ -39,8 +39,8 @@ poc-logto-fastify-react/
 Clone o repositório e entre na pasta:  
 
 ```bash
-git clone https://github.com/seu-usuario/poc-logto-fastify-react.git
-cd poc-logto-fastify-react
+git clone https://github.com/ecbDeveloper/logto-poc.git
+cd logto-poc
 ```
 
 #### 🔹 Configurar o Backend (`back/`)  
