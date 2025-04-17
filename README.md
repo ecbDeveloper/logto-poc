@@ -5,7 +5,8 @@ Este repositório contém uma **Prova de Conceito (POC)** de autenticação util
 ## 📂 Estrutura do Projeto  
 
 ```bash
-poc-logto-fastify-react/
+
+logto-poc/
 │── back/      # Backend (Fastify)
 │── web/       # Frontend (React)
 │── README.md  # Documentação do projeto
